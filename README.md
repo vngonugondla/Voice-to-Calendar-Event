@@ -1,3 +1,3 @@
-# voice-to-calendar
+# Voice-to-Calendar-Event
 
-automatically convert speech to an event in google calendar! try 'dentist appointment today at 13:00'.
+Automatically convert speech to an event in Google Calendar! Try 'dentist appointment today at 13:00'.
